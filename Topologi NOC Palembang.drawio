@@ -1,1 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2021-06-24T09:07:29.826Z" agent="5.0 (X11)" etag="PW6CVnjqxR0_By8jjBGe" version="14.8.0" type="github" pages="2"><diagram id="8MeH5WZ3r6_UzruFe7fX" name="NOC">7VjLUtswFP2aLMn4FcdZkkAp00JTQoF2k1FsYWsiW0aWY6df36tYdvyiUAZoh5JFYh1JV/I55+raGZizMD/hKA7OmIfpwNC8fGAeDQxD18ca/EhkWyITo0B8TjyF7YEF+YkVqCb6KfFw0hgoGKOCxE3QZVGEXdHAEOcsaw67ZbS5aox83AEWLqJd9Jp4IihQZ6Tt8Y+Y+EG5sq6pnhCVgxWQBMhjWQ0yjwfmjDMmiqswn2Eq2St5KeZ9uKe32hjHkXjMhEPmp7OpNb1FX+nXq8vL67tsfqCibBBN1Q0PDJtCvOktg7Cwa7FVVNh3KSs7DpKdUIcwwLDifN8JV778vWQxo8wnMOD8ywy+58BouEKRX8aHjRZLFBMUR9VqhsC5xAMRUgB0uEwEZ2s8g7gckIhFWO6GUNqCECV+BE0XiMGATzeYCwKSHqqOkHieXGaaBUTgRYxcuWYGDgaMszTysORMq7YlA+D8Xt71Sk3IA8xCLPgWhpQTSkeoFCj9kO3tNJooLKhZqRyHlIP9KvJeZLhQOv+B5kaP5i3ya6yzVFASAe1lfmkt1geGOdt9OhJBj+04+tSEHp8jjwBjLa1K+IhwiE5YtOvikhgVrMw6QyIBiuUOw9yXx80wwiJjfJ0MXcpST3mztvrt7vM8Mo4tezhqCDnpCtmn4+ildDQ7Op7OLgH4dr64OH27+TR29JYQut1VwnrNjLIezqi2dV2SuGwI5AClyVDXxprWVCdmRNJ9vAFaEoV5KAkqKls5qEGuTcZ9OVhlQTehSiU/oxWmc5YQlYIrJgQLe6QWLO5zRO8h8Qxaj+zm2Vk9T9SUHjs9OWe+kNKjN3h2sjBcwjbXS+zJZ6G6CXFOxI3c99BxVPP7rll2HuXqrnaNba0xx5wA59IeNTcUS/zOC8AlS7mLH043gbiPxUOFruutmneq2lw3TwVyTJEgm+aG+yyl1pjLlN2b1xy3K4Zlt06g4lbVvPqzWyuU1QlltkMVbHRC7Vxe3fzTjW93jH8xhPYJEjhDktV5uqJk/XbLzmjUeowzu0eRruuvWHWc96rzMlXHHP9jVWfSn3xHJJFnxOLi6j/IP9P+i/l3M8eTzXry4+ITOrPE1enVamn2vjs/Kv+SjAg3wMmQoi3mS2PJccgEXhb4e0J2z17LaZc/rUd9rUf9J7x9QXP/r0xRP/d/bpnHvwA=</diagram><diagram id="CFBoQtsgGZImR9UMeINB" name="Gedung Auditorium Lantai 7">ldFPD4IgFADwT8OxDWSWd/u3tbq4anVjQsqGPoc0zU+fDsyYl7qwx4/He/xBNC7anWZVfgQuFAowbxFdoyBY4aAfB3g5IKGFTEtuiUyQyE44xE6fkovaSzQAysjKxxTKUqTGM6Y1NH7aA5TftWKZmEGSMjXXq+QmtxqFePK9kFk+dibYrRRsTHZQ54xD80V0g2isAYyNijYWani78V2gJOa8JN3tuF7B4X666Khd2GLbf7Z8rqBFaX4t3QfT0fqJ97908wY=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-24T09:32:36.748Z" agent="5.0 (X11)" etag="TaPg_DlPXX6epbwXm8hQ" version="14.8.0" type="github" pages="2">
+  <diagram id="8MeH5WZ3r6_UzruFe7fX" name="NOC">
+    <mxGraphModel dx="1662" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AoguCB4BfaQlQVTTWqwP-1" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Topologi NOC Palembang&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="100" y="20" width="590" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AoguCB4BfaQlQVTTWqwP-2" value="" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.cloud;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="746.5" y="90" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="AoguCB4BfaQlQVTTWqwP-3" value="ICT UNSRI" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="781.5" y="160" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AoguCB4BfaQlQVTTWqwP-4" value="" style="shape=mxgraph.cisco.routers.10700;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="560" y="170" width="78" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="AoguCB4BfaQlQVTTWqwP-5" value="" style="html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.comm_link_edge;html=1;exitX=0.88;exitY=0.1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="AoguCB4BfaQlQVTTWqwP-4" target="AoguCB4BfaQlQVTTWqwP-2" edge="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="376.5" y="460" as="sourcePoint" />
+            <mxPoint x="476.5" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AoguCB4BfaQlQVTTWqwP-6" value="R. Gateway Publik" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="550" y="230" width="111" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="AoguCB4BfaQlQVTTWqwP-8" value="" style="shape=mxgraph.cisco.routers.10700;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="370" y="170" width="78" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="AoguCB4BfaQlQVTTWqwP-9" value="R. Dist SRV Publik" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="360" y="230" width="111" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XPe9vk9ZRKaM4tVIVb_3-1" value="" style="shape=mxgraph.cisco.switches.layer_2_remote_switch;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="548.5" y="300" width="101" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="CFBoQtsgGZImR9UMeINB" name="Gedung Auditorium Lantai 7">
+    <mxGraphModel dx="702" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="on1tU61zYMD7oKZNVr8x-0" />
+        <mxCell id="on1tU61zYMD7oKZNVr8x-1" parent="on1tU61zYMD7oKZNVr8x-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
