@@ -1,1 +1,86 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T01:38:50.980Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" version="17.4.6" etag="y0tOB7YGbXMG8K4qu5wS" type="github"><diagram id="X68WmT1cUdUygMQquTLK">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-26T02:09:17.835Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.127 Safari/537.36" etag="oDF1qzrJ3LEkNKD9-IWF" version="17.4.6" type="github">
+  <diagram id="X68WmT1cUdUygMQquTLK" name="Page-1">
+    <mxGraphModel dx="1585" dy="813" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AYnZLaz9ZYADptxVG4n7-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="AYnZLaz9ZYADptxVG4n7-2" target="AYnZLaz9ZYADptxVG4n7-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AYnZLaz9ZYADptxVG4n7-2" value="&lt;font face=&quot;Times New Roman&quot;&gt;Mulai&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="190" y="40" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AYnZLaz9ZYADptxVG4n7-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;Selesai&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="190" y="700" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AYnZLaz9ZYADptxVG4n7-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="AYnZLaz9ZYADptxVG4n7-4" target="AYnZLaz9ZYADptxVG4n7-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AYnZLaz9ZYADptxVG4n7-4" value="&lt;font face=&quot;Times New Roman&quot;&gt;Perancangan Sistem&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="130" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AYnZLaz9ZYADptxVG4n7-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="AYnZLaz9ZYADptxVG4n7-6" target="AYnZLaz9ZYADptxVG4n7-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AYnZLaz9ZYADptxVG4n7-6" value="&lt;font face=&quot;Times New Roman&quot;&gt;Perancangan Alat&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="190" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AYnZLaz9ZYADptxVG4n7-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" parent="1" source="AYnZLaz9ZYADptxVG4n7-8" target="AYnZLaz9ZYADptxVG4n7-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="345" y="310" />
+              <mxPoint x="345" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AYnZLaz9ZYADptxVG4n7-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="AYnZLaz9ZYADptxVG4n7-8" target="AYnZLaz9ZYADptxVG4n7-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AYnZLaz9ZYADptxVG4n7-8" value="Apakah Telah Sesuai ?&amp;nbsp;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="155" y="260" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="AYnZLaz9ZYADptxVG4n7-11" value="Perancangan Program" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="382" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AYnZLaz9ZYADptxVG4n7-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="AYnZLaz9ZYADptxVG4n7-13" target="AYnZLaz9ZYADptxVG4n7-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AYnZLaz9ZYADptxVG4n7-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" parent="1" source="AYnZLaz9ZYADptxVG4n7-13" target="AYnZLaz9ZYADptxVG4n7-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="345" y="490" />
+              <mxPoint x="345" y="402" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AYnZLaz9ZYADptxVG4n7-13" value="Apakah Telah&amp;nbsp; Berhasil ?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="155" y="442" width="170" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="AYnZLaz9ZYADptxVG4n7-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="AYnZLaz9ZYADptxVG4n7-14" target="AYnZLaz9ZYADptxVG4n7-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AYnZLaz9ZYADptxVG4n7-14" value="Pengujian dan Pengambilan Data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="564" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AYnZLaz9ZYADptxVG4n7-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;" edge="1" parent="1" source="AYnZLaz9ZYADptxVG4n7-19" target="AYnZLaz9ZYADptxVG4n7-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AYnZLaz9ZYADptxVG4n7-19" value="Hasil" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="630" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AYnZLaz9ZYADptxVG4n7-23" value="Tidak" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="280" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AYnZLaz9ZYADptxVG4n7-24" value="Tidak" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="280" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AYnZLaz9ZYADptxVG4n7-25" value="Ya" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="250" y="352" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AYnZLaz9ZYADptxVG4n7-26" value="Ya" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="250" y="534" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
