@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-11T06:13:56.311Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Uc4taY3s-2AK8g0rMLHr" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-11T06:23:32.719Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="GG_jrnmn-WI_27MtCLJB" version="20.0.1" type="github">
   <diagram id="4VYpVU3-4gpPbceVQIBC" name="Page-1">
-    <mxGraphModel dx="1585" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1585" dy="1912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -234,6 +234,15 @@
         </mxCell>
         <mxCell id="O3NUb-dqWyeAakTH3w4m-63" value="&lt;h3&gt;IoT Device&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="429.03999999999996" y="180" width="60" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="O3NUb-dqWyeAakTH3w4m-116" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.intune.account_portal" vertex="1" parent="1">
+          <mxGeometry x="273.5" y="70" width="43" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O3NUb-dqWyeAakTH3w4m-117" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.server_generic" vertex="1" parent="1">
+          <mxGeometry x="220" y="40" width="24" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="O3NUb-dqWyeAakTH3w4m-118" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#505050;shape=mxgraph.mscae.enterprise.settings" vertex="1" parent="1">
+          <mxGeometry x="266.5" y="-30" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
