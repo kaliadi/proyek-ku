@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-07-11T07:09:55.886Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="2089br3vMMYBHeIaNfd0" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-11T07:17:52.271Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="JrtZ76aoO0SirwdIFwvY" version="20.0.1" type="github">
   <diagram id="4VYpVU3-4gpPbceVQIBC" name="Page-1">
-    <mxGraphModel dx="1902" dy="2074" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1585" dy="1912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="O3NUb-dqWyeAakTH3w4m-151" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;strokeColor=#000000;strokeWidth=2;fillColor=default;" vertex="1" parent="1">
-          <mxGeometry x="670" y="-199" width="430" height="599" as="geometry" />
+          <mxGeometry x="665" y="-199" width="430" height="289" as="geometry" />
         </mxCell>
         <mxCell id="O3NUb-dqWyeAakTH3w4m-148" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=none;strokeColor=#000000;strokeWidth=2;fillColor=default;" vertex="1" parent="1">
           <mxGeometry x="30" y="-199" width="600" height="599" as="geometry" />
@@ -324,6 +324,51 @@
         </mxCell>
         <mxCell id="O3NUb-dqWyeAakTH3w4m-146" value="&lt;h3&gt;Blockchain / Peer-to-peer Network&lt;/h3&gt;" style="text;html=1;strokeColor=#3700CC;fillColor=#6a00ff;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="O3NUb-dqWyeAakTH3w4m-144">
           <mxGeometry x="10" y="7.5" width="170" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="O3NUb-dqWyeAakTH3w4m-157" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="690" y="-120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O3NUb-dqWyeAakTH3w4m-154" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;labelBorderColor=none;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;size=10;" vertex="1" parent="O3NUb-dqWyeAakTH3w4m-157">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O3NUb-dqWyeAakTH3w4m-155" value="&lt;h3&gt;Public Blockchain&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="O3NUb-dqWyeAakTH3w4m-157">
+          <mxGeometry x="30" y="17.5" width="60" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="O3NUb-dqWyeAakTH3w4m-160" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;labelBorderColor=none;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;size=10;" vertex="1" parent="1">
+          <mxGeometry x="820" y="-117.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O3NUb-dqWyeAakTH3w4m-161" value="&lt;h3&gt;Private Blockchain&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="855" y="-100" width="60" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="O3NUb-dqWyeAakTH3w4m-163" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;labelBorderColor=none;strokeColor=#6c8ebf;strokeWidth=2;fillColor=#dae8fc;size=10;" vertex="1" parent="1">
+          <mxGeometry x="950" y="-117.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O3NUb-dqWyeAakTH3w4m-164" value="&lt;h3&gt;Consortium Blockchain&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="985" y="-100" width="60" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="O3NUb-dqWyeAakTH3w4m-165" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="805" y="10" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O3NUb-dqWyeAakTH3w4m-166" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="O3NUb-dqWyeAakTH3w4m-165">
+          <mxGeometry width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O3NUb-dqWyeAakTH3w4m-167" value="&lt;h3&gt;Miners / Validations&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="O3NUb-dqWyeAakTH3w4m-165">
+          <mxGeometry x="10" y="15" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O3NUb-dqWyeAakTH3w4m-168" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.657;entryY=1.053;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="O3NUb-dqWyeAakTH3w4m-166" target="O3NUb-dqWyeAakTH3w4m-154">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="40" as="sourcePoint" />
+            <mxPoint x="770" y="-50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O3NUb-dqWyeAakTH3w4m-169" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;entryX=0;entryY=0;entryDx=65;entryDy=60;entryPerimeter=0;" edge="1" parent="1" source="O3NUb-dqWyeAakTH3w4m-166" target="O3NUb-dqWyeAakTH3w4m-160">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="O3NUb-dqWyeAakTH3w4m-171" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.802;entryY=0.249;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="O3NUb-dqWyeAakTH3w4m-166" target="O3NUb-dqWyeAakTH3w4m-151">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="855" y="20.000000000000227" as="sourcePoint" />
+            <mxPoint x="1000" y="-50" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
