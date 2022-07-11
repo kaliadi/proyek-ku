@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-11T05:51:48.174Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="HeA6guyehE4U6OXzPa5A" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-11T05:52:57.502Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="8qgh_ZVqBZBPBazsb-0O" version="20.0.1" type="github">
   <diagram id="4VYpVU3-4gpPbceVQIBC" name="Page-1">
     <mxGraphModel dx="793" dy="406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -73,8 +73,44 @@
         <mxCell id="O3NUb-dqWyeAakTH3w4m-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="O3NUb-dqWyeAakTH3w4m-22">
           <mxGeometry width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="O3NUb-dqWyeAakTH3w4m-24" value="&lt;h3&gt;Security Configuration Module&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="O3NUb-dqWyeAakTH3w4m-22">
+        <mxCell id="O3NUb-dqWyeAakTH3w4m-24" value="&lt;h3&gt;Networking Configuration Module&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="O3NUb-dqWyeAakTH3w4m-22">
           <mxGeometry x="30" y="65" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O3NUb-dqWyeAakTH3w4m-25" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="385" y="350" width="40" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="O3NUb-dqWyeAakTH3w4m-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="O3NUb-dqWyeAakTH3w4m-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint as="sourcePoint" />
+            <mxPoint x="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O3NUb-dqWyeAakTH3w4m-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.833;entryY=0.188;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="O3NUb-dqWyeAakTH3w4m-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="38" y="12" as="sourcePoint" />
+            <mxPoint x="-2.0400000000000773" y="12.079999999999927" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="28" y="12" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O3NUb-dqWyeAakTH3w4m-28" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="384" y="453" width="40" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="O3NUb-dqWyeAakTH3w4m-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="O3NUb-dqWyeAakTH3w4m-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint as="sourcePoint" />
+            <mxPoint x="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="O3NUb-dqWyeAakTH3w4m-30" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.833;entryY=0.188;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="O3NUb-dqWyeAakTH3w4m-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="38" y="12" as="sourcePoint" />
+            <mxPoint x="-2.0400000000000773" y="12.079999999999927" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="28" y="12" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
