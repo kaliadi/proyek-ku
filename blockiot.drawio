@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-11T06:44:06.744Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="KIPaaFS9H4UuKikcfs7W" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-11T06:46:36.460Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="bDZdIzR2EN6PrjNol-Yt" version="20.0.1" type="github">
   <diagram id="4VYpVU3-4gpPbceVQIBC" name="Page-1">
     <mxGraphModel dx="1902" dy="2074" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -6,6 +6,9 @@
         <mxCell id="1" parent="0" />
         <mxCell id="O3NUb-dqWyeAakTH3w4m-64" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="-190" width="560" height="594" as="geometry" />
+        </mxCell>
+        <mxCell id="O3NUb-dqWyeAakTH3w4m-113" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#000000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="434.99999999999994" y="-220" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="O3NUb-dqWyeAakTH3w4m-59" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="55" y="-126" width="550" height="440" as="geometry" />
@@ -226,10 +229,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="O3NUb-dqWyeAakTH3w4m-113" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="434.99999999999994" y="-220" width="120" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="O3NUb-dqWyeAakTH3w4m-114" value="&lt;h3&gt;IoT Network&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="O3NUb-dqWyeAakTH3w4m-114" value="&lt;h3&gt;IoT Network&lt;/h3&gt;" style="text;html=1;strokeColor=#3700CC;fillColor=#6a00ff;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="459.99999999999994" y="-212.5" width="60" height="35" as="geometry" />
         </mxCell>
         <mxCell id="O3NUb-dqWyeAakTH3w4m-63" value="&lt;h3&gt;IoT Device&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -274,7 +274,7 @@
         <mxCell id="O3NUb-dqWyeAakTH3w4m-126" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="229.01" y="370" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="O3NUb-dqWyeAakTH3w4m-127" value="&lt;h3&gt;IoT Network Gateways&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="O3NUb-dqWyeAakTH3w4m-127" value="&lt;h3&gt;IoT Network Gateways&lt;/h3&gt;" style="text;html=1;strokeColor=#001DBC;fillColor=#0050ef;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="238.75" y="385" width="196.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="O3NUb-dqWyeAakTH3w4m-134" value="" style="group;rotation=90;" vertex="1" connectable="0" parent="1">
