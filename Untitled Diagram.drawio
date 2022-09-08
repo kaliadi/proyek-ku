@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2022-09-08T03:01:15.682Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" version="20.2.8" etag="typNIZ-8aQX0EgE4DLNp" type="github"><diagram id="6SJZbx5kpCVuqWv04h9M">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-08T03:20:22.932Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="hK8TC5UtVwNH9pZ9gW4Z" version="20.2.8" type="github">
+  <diagram id="6SJZbx5kpCVuqWv04h9M" name="Page-1">
+    <mxGraphModel dx="1210" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Bjk3jy3YwYYa_9_mwN1w-33" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="200" y="100" width="410" height="254" as="geometry" />
+        </mxCell>
+        <mxCell id="Bjk3jy3YwYYa_9_mwN1w-5" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Non_Azure_Machine.svg;" vertex="1" parent="Bjk3jy3YwYYa_9_mwN1w-33">
+          <mxGeometry x="182" width="31" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Bjk3jy3YwYYa_9_mwN1w-6" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Virtual_Network.svg;rotation=-45;" vertex="1" parent="Bjk3jy3YwYYa_9_mwN1w-33">
+          <mxGeometry x="130" y="80" width="50" height="28.000000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="Bjk3jy3YwYYa_9_mwN1w-7" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Virtual_Network.svg;rotation=45;" vertex="1" parent="Bjk3jy3YwYYa_9_mwN1w-33">
+          <mxGeometry x="213" y="80" width="50" height="28.000000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="Bjk3jy3YwYYa_9_mwN1w-10" value="Proxmox Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Bjk3jy3YwYYa_9_mwN1w-33">
+          <mxGeometry x="120" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Bjk3jy3YwYYa_9_mwN1w-26" value="" style="group" vertex="1" connectable="0" parent="Bjk3jy3YwYYa_9_mwN1w-33">
+          <mxGeometry x="250" y="120" width="160" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="Bjk3jy3YwYYa_9_mwN1w-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Bjk3jy3YwYYa_9_mwN1w-26">
+          <mxGeometry width="160" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="Bjk3jy3YwYYa_9_mwN1w-19" value="VM AmacneilBtc1 Srv" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Bjk3jy3YwYYa_9_mwN1w-26">
+          <mxGeometry x="64" y="20" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Bjk3jy3YwYYa_9_mwN1w-4" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="Bjk3jy3YwYYa_9_mwN1w-26">
+          <mxGeometry x="10.00333333333333" y="16" width="50" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="Bjk3jy3YwYYa_9_mwN1w-3" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Container_Registries.svg;" vertex="1" parent="Bjk3jy3YwYYa_9_mwN1w-26">
+          <mxGeometry x="10.00333333333333" y="81" width="50" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Bjk3jy3YwYYa_9_mwN1w-25" value="Docker Container" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Bjk3jy3YwYYa_9_mwN1w-26">
+          <mxGeometry x="70" y="87.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Bjk3jy3YwYYa_9_mwN1w-27" value="" style="group" vertex="1" connectable="0" parent="Bjk3jy3YwYYa_9_mwN1w-33">
+          <mxGeometry y="120" width="160" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="Bjk3jy3YwYYa_9_mwN1w-28" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="Bjk3jy3YwYYa_9_mwN1w-27">
+          <mxGeometry width="160" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="Bjk3jy3YwYYa_9_mwN1w-29" value="VM AmacneilBtc2 Srv" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Bjk3jy3YwYYa_9_mwN1w-27">
+          <mxGeometry x="64" y="20" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Bjk3jy3YwYYa_9_mwN1w-30" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/VM_Linux.svg;" vertex="1" parent="Bjk3jy3YwYYa_9_mwN1w-27">
+          <mxGeometry x="10.00333333333333" y="16" width="50" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="Bjk3jy3YwYYa_9_mwN1w-31" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Container_Registries.svg;" vertex="1" parent="Bjk3jy3YwYYa_9_mwN1w-27">
+          <mxGeometry x="10.00333333333333" y="81" width="50" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="Bjk3jy3YwYYa_9_mwN1w-32" value="Docker Container" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Bjk3jy3YwYYa_9_mwN1w-27">
+          <mxGeometry x="70" y="87.5" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
